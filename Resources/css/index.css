@@ -1,0 +1,25 @@
+h1 {
+  color: red;
+  font-family: Cooper Black;
+  text-align: center;
+}
+ p {
+   color: red;
+   font-family: Book Antiqua;
+   font-size: 18px;
+   text-align: justify;
+ }
+ h2 {
+   color: red;
+   font-family: Cooper Black;
+   text-align: center;
+ }
+ ul {
+   color: violet ;
+   font-family: Cooper Black;
+ }
+body {
+  background-image: url("../images/cataract-3-titan-HSV.png");
+  height: auto;
+  width: auto;
+  }
