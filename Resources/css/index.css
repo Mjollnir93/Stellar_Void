@@ -1,13 +1,22 @@
+body {
+  background: url("../images/cataract-3-titan-HSV.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 h1 {
   color: red;
   font-family: Cooper Black;
   text-align: center;
+  font-size: 78px;
 }
  p {
    color: red;
    font-family: Book Antiqua;
-   font-size: 18px;
-   text-align: justify;
+   font-weight: bolder;
+   font-size: 43px;
+   text-align: center;
  }
  h2 {
    color: red;
@@ -17,9 +26,9 @@ h1 {
  ul {
    color: violet ;
    font-family: Cooper Black;
+   text-align: center;
  }
-body {
-  background-image: url("../images/cataract-3-titan-HSV.png");
-  height: auto;
-  width: auto;
-  }
+ .sound {
+   color: red;
+   font-weight: 600;
+ }
